@@ -11,5 +11,5 @@ To see the web page, click on the link of each project !
 # How to see web page from GitHub ?
 The root of the link is created from the GitHub username and the name of the repository (if the code is in the folder we need to specify it):
 
-justine2403.github.io/dev_web_project/file_name.html
+<username>.github.io/<repo_name>/file_name.html
 
