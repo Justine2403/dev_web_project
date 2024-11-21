@@ -1,4 +1,4 @@
-This repository regroups projects in HTML/CSS to get familiar with development web.
+This repository regroups projects in HTML/CSS to get familiar with development web. Each projects were made thanks to tutorial on freeCodeCamp.
 
 To see the web page, click on the link of each project !
 
