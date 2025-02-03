@@ -1,6 +1,6 @@
 This repository regroups projects in HTML/CSS to get familiar with development web. Each projects were made thanks to tutorial on freeCodeCamp.
 
-To see the web page, click on the link of each project !
+To see the web page, click on the link of each project.
 
 ## Cat Photo Apps: 
 *https://justine2403.github.io/dev_web_project/responsive_web_design_project/project_cat.html*
